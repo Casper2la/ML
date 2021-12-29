@@ -32,7 +32,7 @@ print("Шаг 3\n")
 # Важно понимать, в чем разница между pandas loc и iloc. Как отобрать все строки кроме указанных?
 # Умение искать ответы поможет вам на начальных этапах знакомства с pandas!
 
-my_stat = pd.read_csv('Lesson 2.8 data/my_stat.csv')
+my_stat = pd.read_csv('Lesson 1.8 data/my_stat.csv')
 subset_1_3 = my_stat.iloc[0:10, [0, 2]]
 subset_2_3 = pd.concat([my_stat.iloc[1:4, [1, 3]], my_stat.iloc[5:, [1, 3]]])
 # print(subset_1_3)
@@ -75,7 +75,7 @@ print("Шаг 6\n")
 # V3 -> time
 # V4 -> n_users
 
-my_stat = pd.read_csv('Lesson 2.8 data/my_stat.csv')
+my_stat = pd.read_csv('Lesson 1.8 data/my_stat.csv')
 my_stat = my_stat.rename(index=str, columns={"V1": "session_value", "V2": "group", "V3": "time", "V4": "n_users"})
 # print(my_stat.head())
 
@@ -87,7 +87,7 @@ print("Шаг 7\n")
 # В переменной n_users замените все отрицательные значения на медианное значение переменной n_users
 # (без учета отрицательных значений, разумеется).
 
-my_stat_1 = pd.read_csv("Lesson 2.8 data/my_stat_1.csv")
+my_stat_1 = pd.read_csv("Lesson 1.8 data/my_stat_1.csv")
 my_stat_1 = my_stat_1.fillna(0)
 filter = my_stat_1["n_users"][my_stat_1["n_users"] < 0].to_list()
 median = np.median(my_stat_1["n_users"][my_stat_1['n_users'] >= 0])
@@ -112,7 +112,7 @@ print("Шаг 8\n")
 # Также переименуйте колонку со средним значением session_value в mean_session_value.
 # Получившийся результат сохраните в dataframe с именем mean_session_value_data.
 
-my_stat_2 = pd.read_csv("Lesson 2.8 data/my_stat_1.csv")
+my_stat_2 = pd.read_csv("Lesson 1.8 data/my_stat_1.csv")
 mean_session_value_data = my_stat_2.groupby("group", as_index=False).agg({"session_value": 'mean'})\
     .rename(columns={"session_value": 'mean_session_value'})
 # print(mean_session_value_data)

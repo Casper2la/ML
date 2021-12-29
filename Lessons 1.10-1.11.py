@@ -14,8 +14,8 @@ print("Шаг 5\n")
 # данные которого мы анализируем?
 # Введите id Анатолия Карпова, под которым он фигурирует в данных events_data_train и submissions_data_train.
 
-events_data = pd.read_csv('Lessons 2.10-2.11 data/event_data_train.csv')
-submissions_data = pd.read_csv('Lessons 2.10-2.11 data/submissions_data_train.csv')
+events_data = pd.read_csv('Lessons 1.10-1.11 data/event_data_train.csv')
+submissions_data = pd.read_csv('Lessons 1.10-1.11 data/submissions_data_train.csv')
 
 # print(events_data[events_data.action == 'viewed']
 #       .groupby('user_id', as_index=False)

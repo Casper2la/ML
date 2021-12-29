@@ -11,7 +11,7 @@ print("2.4 Pandas, Dataframes \n Шаг 10")
 # int
 # object
 
-titanic = pd.read_csv("Lessons 2.4-2.5 data/titanic.csv")
+titanic = pd.read_csv("Lessons 1.4-1.5 data/titanic.csv")
 # print(titanic.info())
 
 
@@ -20,7 +20,7 @@ print("Шаг 6")
 # У какой доли студентов из датасэта в колонке lunch указано free/reduced?
 # Формат ответа десятичная дробь, например, 0.25
 
-stud = pd.read_csv("Lessons 2.4-2.5 data/StudentsPerformance.csv")
+stud = pd.read_csv("Lessons 1.4-1.5 data/StudentsPerformance.csv")
 # print(stud["lunch"][stud.lunch=="free/reduced"].count()/stud["lunch"].count())
 
 

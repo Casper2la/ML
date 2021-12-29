@@ -12,7 +12,7 @@ print("Шаг 5\n")
 # сейчас не важно, главное сам график)
 # Убедитесь, что вы используте версию seaborn > = 0.9.
 
-df = pd.read_csv('Lesson 2.7 data/income.csv')
+df = pd.read_csv('Lesson 1.7 data/income.csv')
 # df_plot = sns.lineplot(data=df) # work
 # df_plot2 = df.income.plot() # work
 # df_plot3 = df.plot(kind='line') # work
@@ -28,7 +28,7 @@ print("Шаг 6\n")
 # этих 2-ух переменных (одна из них будет x, а другая - y) и напишите число кластеров, формируемых наблюдениями.
 # В ответе вы должны указать число кластеров в виде числа (например: 3).
 
-claster = pd.read_csv('Lesson 2.7 data/dataset_467119_6 (1).txt', delimiter=' ')
+claster = pd.read_csv('Lesson 1.7 data/dataset_209770_6.txt', delimiter=' ')
 
 # sns.lmplot(x="x", y="y", data=claster)
 # plt.show()
@@ -42,7 +42,7 @@ print("Шаг 7\n")
 # g.xaxis.set_ticks_position('top')
 # g.xaxis.set_tick_params(rotation=90)
 
-genome = pd.read_csv("Lesson 2.7 data/genome_matrix.csv", index_col=0)
+genome = pd.read_csv("Lesson 1.7 data/genome_matrix.csv", index_col=0)
 
 # g = sns.heatmap(genome, cmap="viridis", square=True, linewidths=.5, cbar_kws={"shrink": .5})
 # g.xaxis.set_ticks_position('top')
@@ -57,7 +57,7 @@ print("Шаг 8\n")
 # (по мнению Valve, конечно) и напишите какое число ролей у большинства героев.
 # Это задание можно выполнить многими путями, и рисовать гистограмму вообще говоря для этого не нужно.
 
-dota_roles = pd.read_csv("Lesson 2.7 data/dota_hero_stats.csv", index_col=0)
+dota_roles = pd.read_csv("Lesson 1.7 data/dota_hero_stats.csv", index_col=0)
 
 dota_roles["roles_count"] = dota_roles["roles"].str.count(',')+1
 # dota_roles.roles_count.hist()
@@ -74,7 +74,7 @@ print("Шаг 9\n")
 # for column in df:
 #     # Draw distribution with that column
 
-iris = pd.read_csv("Lesson 2.7 data/iris.csv", index_col=0)
+iris = pd.read_csv("Lesson 1.7 data/iris.csv", index_col=0)
 # sns.kdeplot(data=iris)
 # plt.show()
 

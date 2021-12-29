@@ -15,7 +15,7 @@ print("2.6 Группировка и агрегация, ничего, скор�
 
 print("Шаг 5")
 
-dotaset = pd.read_csv("Lesson 2.6 data/dota_hero_stats.csv")
+dotaset = pd.read_csv("Lesson 1.6 data/dota_hero_stats.csv")
 
 legs = dotaset.groupby(["legs"])[["name"]].count()
 # print(legs)
@@ -26,7 +26,7 @@ legs = dotaset.groupby(["legs"])[["name"]].count()
 
 print("Шаг 6")
 
-pl_pay = pd.read_csv("Lesson 2.6 data/accountancy.csv")
+pl_pay = pd.read_csv("Lesson 1.6 data/accountancy.csv")
 mean_pay = pl_pay.groupby(["Type", "Executor"]).aggregate({"Salary": 'mean'})
 # print(mean_pay)
 
@@ -48,7 +48,7 @@ character = dotaset.groupby(["attack_type", "primary_attr"]).aggregate({"attack_
 
 print("Шаг 8")
 
-concentrations = pd.read_csv("Lesson 2.6 data/algae.csv")
+concentrations = pd.read_csv("Lesson 1.6 data/algae.csv")
 mean_concentrations = concentrations.groupby(["genus"]).aggregate({"sucrose": "mean", "alanin": "mean",
                                                                    'citrate': "mean", 'glucose': "mean",
                                                                    'oleic_acid': "mean"})

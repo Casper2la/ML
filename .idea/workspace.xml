@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbbb8277-25a5-4522-9201-c38789fa0425" name="Changes" comment="Use Git-lfs">
-      <change beforePath="$PROJECT_DIR$/Lesson 3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 3.4.py" afterDir="false" />
+    <list default="true" id="fbbb8277-25a5-4522-9201-c38789fa0425" name="Changes" comment="Renamed lessons on new course link&#10;lesson 2.4 is done">
+      <change afterPath="$PROJECT_DIR$/Lesson 1.7 data/dataset_209770_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.4 data/dataset_209691_15 (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.4 data/dataset_209691_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.4 data/dogs_n_cats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source.gv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsPerformance.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountancy.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algae.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dota_hero_stats.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genome_matrix.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/income.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_stat.csv~HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titanic.csv~HEAD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.6 data/accountancy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.6 data/accountancy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.6 data/algae.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.6 data/algae.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.6 data/dota_hero_stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.6 data/dota_hero_stats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/dataset_467119_6 (1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/dataset_467119_6 (1).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/dataset_467119_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/dataset_467119_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/dota_hero_stats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/dota_hero_stats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/genome_matrix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/genome_matrix.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/income.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/income.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7 data/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7 data/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.8 data/my_stat.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.8 data/my_stat.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.8 data/my_stat_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.8 data/my_stat_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3.2 data/cats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.2 data/cats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3.4 data/test_iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.4 data/test_iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3.4 data/train_iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.4 data/train_iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.10-2.11 data/event_data_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.10-1.11 data/event_data_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.10-2.11 data/submissions_data_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.10-1.11 data/submissions_data_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.10-2.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.10-1.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.4-2.5 data/StudentsPerformance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.4-1.5 data/StudentsPerformance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.4-2.5 data/titanic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.4-1.5 data/titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons 2.4-2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons 1.4-1.5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +65,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="88358bc9c1939b3469fd40063a9118a009403db3" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -65,8 +108,8 @@
       <recent name="C:\Users\a.lopasteysky\PycharmProjects\ML\Lessons 2.4-2.5 data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson 3.4">
-    <configuration name="Lesson 2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lesson 2.4">
+    <configuration name="Lesson 1.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 2.7.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 1.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson 2.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson 1.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 2.8.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 1.8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson 3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson 2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 3.2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 2.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson 3.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson 2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 3.4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 2.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lessons 2.10-2.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lessons 1.10-1.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons 2.10-2.11.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lessons 1.10-1.11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lesson 3.4" />
-        <item itemvalue="Python.Lesson 3.2" />
-        <item itemvalue="Python.Lessons 2.10-2.11" />
-        <item itemvalue="Python.Lesson 2.8" />
-        <item itemvalue="Python.Lesson 2.7" />
+        <item itemvalue="Python.Lesson 2.4" />
+        <item itemvalue="Python.Lesson 1.7" />
+        <item itemvalue="Python.Lesson 2.2" />
+        <item itemvalue="Python.Lessons 1.10-1.11" />
+        <item itemvalue="Python.Lesson 1.8" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640328066239</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Rebased commits">
+      <created>1640545044666</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640545044666</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +340,8 @@
     <MESSAGE value="Use Git-lfs" />
     <MESSAGE value="Delete .gitignore" />
     <MESSAGE value="squash! Use Git-lfs" />
-    <option name="LAST_COMMIT_MESSAGE" value="squash! Use Git-lfs" />
+    <MESSAGE value="Rebased commits" />
+    <MESSAGE value="Renamed lessons on new course link&#10;lesson 2.4 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed lessons on new course link&#10;lesson 2.4 is done" />
   </component>
 </project>
