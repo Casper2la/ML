@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbbb8277-25a5-4522-9201-c38789fa0425" name="Changes" comment="Add lesson 2.5">
-      <change afterPath="$PROJECT_DIR$/Lesson 2.5 data/songs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.7 data/train_data_tree.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2.7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2.5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <recent name="C:\Users\a.lopasteysky\PycharmProjects\ML\Lessons 2.4-2.5 data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson 2.4">
+  <component name="RunManager" selected="Python.Lesson 2.7">
     <configuration name="Lesson 1.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,27 +86,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 1.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson 1.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 1.8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,6 +136,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lesson 2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\a.lopasteysky\PycharmProjects\ML\Lesson 2.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lessons 1.10-1.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesson 2.7" />
         <item itemvalue="Python.Lesson 2.4" />
         <item itemvalue="Python.Lesson 1.7" />
         <item itemvalue="Python.Lesson 2.2" />
         <item itemvalue="Python.Lessons 1.10-1.11" />
-        <item itemvalue="Python.Lesson 1.8" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640788294627</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Renamed lessons on new course link&#10;lesson 2.4 is done">
+      <created>1640789163306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640789163306</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add lesson 2.5">
+      <created>1640789176368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1640789176368</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

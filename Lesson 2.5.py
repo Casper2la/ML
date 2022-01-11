@@ -1,10 +1,7 @@
 import pandas as pd
-import numpy as np
 from sklearn import tree
-from sklearn.model_selection import cross_val_score
-from sklearn.tree import export_graphviz
-import matplotlib.pyplot as plt
-import seaborn as sns
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import precision_score
 
 # All print() is commented out
 
@@ -24,3 +21,7 @@ print("Шаг 13\n")
 # Исходные данные взяты отсюда, слегка процессированные можно взять здесь
 # (исходные колонки типа жанра, года были выкинуты в задании)
 
+clf = tree.DecisionTreeClassifier()
+clf.fit(X_train, y_train)
+predictions = clf.predict(X_test)
+precision = precision_score(y_test, predictions, average='micro')
