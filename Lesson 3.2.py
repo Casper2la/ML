@@ -42,4 +42,4 @@ rf.fit(X, y)
 imp = pd.DataFrame(rf.feature_importances_, index=X.columns, columns=['importance'])
 imp.sort_values('importance').plot(kind='barh', figsize=(12, 8))
 
-plt.show()
+# plt.show()
